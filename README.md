@@ -6,7 +6,7 @@ This software provides these features:
 - Adding some following cars which follow leading car's path, and dynamically control the speed to keep inter-vehicle distance like simple platooning.
 - Visualizing the objects above.
 
-https://user-images.githubusercontent.com/36672072/48968770-a5c7c380-f037-11e8-9c5e-2399ce1ca558.png
+![screenshot](https://user-images.githubusercontent.com/36672072/48968770-a5c7c380-f037-11e8-9c5e-2399ce1ca558.png)
 
 ## System
  Tested on Linux mint 17.3 and Ubuntu 18.04.
